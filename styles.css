@@ -1,0 +1,49 @@
+.question {
+    text-align: center;
+}
+
+.fortune-display {
+    font-size: 20px;
+    color: #DA291C;
+    text-align: center;
+}
+
+.fortune {
+    background-color: #005A9C;
+    margin: 8px;
+}
+
+.Fortune {
+    background-color: #BA0021;
+    margin: 8px;
+}
+
+.fortune2 {
+    background-color: #005A9C;
+    margin: 8px;
+}
+
+.fortune3 {
+    background-color: #BA0021;
+    margin: 8px;
+}
+.border {
+	border: 8px dashed #5C88DA;
+    background-color: #F5D130;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 10px;
+    box-shadow: 10px 10px 500px 10px #862633;
+}
+button {
+    margin: 8px;
+}
+p {
+	margin: 8px;    
+}
+body {
+	background-color: #002B73;   
+}
